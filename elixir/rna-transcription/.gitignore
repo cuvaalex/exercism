@@ -21,4 +21,4 @@ erl_crash.dump
 
 # Ignore package tarball (built via "mix hex.build").
 r_n_a_transcription-*.tar
-
+/.idea/
